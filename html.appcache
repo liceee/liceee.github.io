@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# 2017-05-25 v0.0.1
+favicon.ico
+logo.png
+Image1.png
+Image2.png
+
+
+NETWORK:
+login.asp
+
+FALLBACK:
+/html5/ /404.html
